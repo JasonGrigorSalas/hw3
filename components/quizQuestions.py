@@ -1,12 +1,22 @@
 questions = {
     "q1" : {
-        "question" : "Do you live on Earth? ",
-        "yes" : 0,
-        "no" : 10
+        "question" : "Are they associated with wisdom? ",
+        "yes" : 1,
+        "no" : 0
     },
     "q2" : {
-        "question" : "Are you Human? ",
-        "yes" : 0,
-        "no" : 10
+        "question" : "Are they associated with life? ",
+        "yes" : 1,
+        "no" : 0
+    },
+    "q3" : {
+        "question" : "Are they associated with an animal? ",
+        "yes" : 1,
+        "no" : 0
+    },
+    "q4" : {
+        "question" : "Are they associated with water? ",
+        "yes" : 1,
+        "no" : 0
     }
 }
