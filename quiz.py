@@ -2,6 +2,15 @@ from components.quizQuestions import questions
 from components import vars, quizTally
 from PIL import Image
 
+print("******** Greek Mythology ********")
+print("Your choices are: ")
+print("Zeus")
+print("Athena")
+print("Poseidon")
+print("Hades")
+print("Gaia")
+print("********************************\n")
+
 answer1 = questions["q1"][input(questions["q1"]["question"])]
 vars.quizTotal += answer1
 print("\n")
