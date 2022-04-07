@@ -1,5 +1,5 @@
 from components.quizQuestions import questions
-from components import vars, quizTally
+from .components import vars, quizTally
 from PIL import Image
 
 print("******** Greek Mythology ********")

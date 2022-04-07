@@ -1,5 +1,6 @@
 from components import vars
 from PIL import Image
+
 def total(value):
     if value <= 4:
         vars.character = vars.character [0]
