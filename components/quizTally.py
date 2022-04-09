@@ -1,4 +1,4 @@
-from components import vars
+from .vars import vars
 from PIL import Image
 
 def total(value):
